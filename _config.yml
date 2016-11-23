@@ -1,3 +1,4 @@
 name: Flex
+highlighter: rouge
 #markdown: redcarpet
-highlighter: pygments
+#highlighter: pygments
