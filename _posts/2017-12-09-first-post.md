@@ -1,12 +1,10 @@
 ---
 layout: post
-title: This is my first posts
+title: Dont know what to do
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2017-01-09 12:00:00
 categories: posts
 ---
-
-This page was {{ page.content | number_of_words }} words.
 
 ## Introducing Flex, a Jekyll theme
 
