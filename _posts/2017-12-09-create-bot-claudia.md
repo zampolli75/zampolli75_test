@@ -53,7 +53,7 @@ Once our bot is developed we're ready to deploy it on AWS ([see the code for one
 claudia create --region us-east-1 --api-module bot
 {% endhighlight %}
 
-Following we want to get the Webhook URL and verification token to connect to Messenger. To do this we'll launch the update command for Messenger.
+The next step is to to get the Webhook URL and verification token to connect to Messenger. To do this we'll launch the update command for Messenger.
 
 {% highlight shell %}
 claudia update --configure-fb-bot

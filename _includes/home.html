@@ -4,16 +4,16 @@
   </div>
   <div id="post-info">
     <div id="cover-photo-container">
-      <img id="cover-photo" src="/images/cover.jpg">
+      <img id="cover-photo" src="/images/{{ page.cover }}">
     </div>
     <div id="info-container">
-      <h1 id="title">Test</h1>
-      <span id="date">None</span>
+      <h1 id="title">{{ page.title }}</h1>
+      <span id="date">{{ page.date | date_to_string }}</span>
     </div>
   </div>
 
   <div class="post">
-    {{Content}}
+    {{ content }}
   </div>
   <div class="colophon">
     <p>
