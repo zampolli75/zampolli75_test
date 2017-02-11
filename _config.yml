@@ -1,4 +1,7 @@
 name: Flex
 highlighter: rouge
+#Google services
+google_analytics: UA-91812334-1
+
 #markdown: redcarpet
 #highlighter: pygments
