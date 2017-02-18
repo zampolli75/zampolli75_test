@@ -128,6 +128,15 @@ a:hover {
   color: #787878;
 }
 
+#read-time {
+  font-size: 16px;
+  padding-top: 0.25em;
+  margin-bottom: 2em;
+  font-weight: 600;
+  color: #787878;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+}
+
 #cover-photo-container,
 #info-container {
   display: block;
