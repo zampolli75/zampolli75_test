@@ -3,5 +3,8 @@ highlighter: rouge
 #Google services
 google_analytics: UA-91812334-1
 
+#include subfolders to generate pages
+include: ['_pages']
+
 #markdown: redcarpet
 #highlighter: pygments

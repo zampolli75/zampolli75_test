@@ -3,7 +3,7 @@ layout: post
 title: Creating a Bot on Messenger
 cover: cover.jpg
 date:   2017-02-03 12:00:00
-categories: posts
+categories: Conversational
 ---
 
 ## Conversational Interfaces
