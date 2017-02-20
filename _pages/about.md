@@ -32,4 +32,7 @@ Majors: strategy, balance sheet analysis, accountancy.
 
 ## <i class="fa fa-briefcase" aria-hidden="true"></i> Experience  
 
-- Noce, L., Zamberletti, A., Gallo, I., Piccoli, G., Rodriguez, J. A. (2014). Automatic Prediction of Future Business Conditions. In Advances in Natural Language Processing (pp. 371-383). Springer International Publishing. [pdf](https://dds.cct.lsu.edu/ddslab/pdf/automatic_prediction_future_business_conditions.pdf)  
+- **Engineering Ingegneria Informatica (May 2014 - May 2016)**  
+Junior Consultant  
+I have specialized in the automotive sector, that see Fiat Chrysler Automobiles (FCA) as the main client. I work closely with the client covering functional analyst, and release manager duties.  
+Tasks: development of BI dashboards (Qlikview) and web applications and the management of their entire lifecycle; gathering requirements; guaranteeing quality relases; managing the accountability and the planning of the project, dealing with incidents (bugs).  
