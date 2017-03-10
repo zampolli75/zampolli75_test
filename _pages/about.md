@@ -26,6 +26,8 @@ Majors: strategy, balance sheet analysis, accountancy.
 
 - Ives, B., Palese, B., Rodriguez, J.A. (2016). Digital Data Streams for Customer Service Enhancement: Harnessing the Internet of Things. MISQ Executive, 15(4). [pdf](http://www.misqe.org/ojs2/execsummaries/MISQE_V15I4_Ivesetal_Web.pdf)  
 
+- Lynda M. Applegate, Gabriele Piccoli, Joaquin Rodriguez. (2016). CLHS: Scaling a New Venture. Innovation & Entrepreneurship Harvard Business Case. [link](https://hbr.org/product/clhs-scaling-a-new-venture/817053-PDF-ENG)
+
 - Piccoli, G., Rodriguez, J., Watson, R. T. (2015, January). Leveraging Digital Data Streams: The Development and Validation of a Business Confidence Index. In System Sciences (HICSS), 2015 48th Hawaii International Conference on (pp. 928-937). IEEE. [pdf](https://dds.cct.lsu.edu/ddslab/pdf/leveraging_digital_data_streams.pdf)  
 
 - Noce, L., Zamberletti, A., Gallo, I., Piccoli, G., Rodriguez, J. A. (2014). Automatic Prediction of Future Business Conditions. In Advances in Natural Language Processing (pp. 371-383). Springer International Publishing. [pdf](https://dds.cct.lsu.edu/ddslab/pdf/automatic_prediction_future_business_conditions.pdf)  
