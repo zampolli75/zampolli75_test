@@ -24,8 +24,8 @@ When creating a new project the first thing to do is start a new npm project.
 npm init
 #download the dependencies
 npm install
-
 {% endhighlight %}  
+
 <br>
 To deploy the bot on AWS we'll need to use the claudia library. I intalled the library as a global one and use it only as a development dependency for my project. If you already have claudia installed on your machine you might want to update it to the lastest release.
 
