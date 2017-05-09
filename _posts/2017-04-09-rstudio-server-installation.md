@@ -88,6 +88,7 @@ $ export PATH=$PATH:$JAVA_HOME/bin
 
 ## Install GLS
 GLS is the GNU scientific library. Some R libraries depend on this library. For some reason that I wasn't able to understand I had also to install the development package in order to succeed to install the R libraries.  
+Here are some resources I used when figuring out how to correctly install GLS: [Ask Ubuntu](https://askubuntu.com/questions/490465/install-gnu-scientific-library-gsl-on-ubuntu-14-04-via-terminal).
 
 {% highlight shell %}
 $ sudo apt-get install libgsl2
