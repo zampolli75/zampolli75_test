@@ -6,5 +6,8 @@ google_analytics: UA-91812334-1
 #include subfolders to generate pages
 include: ['_pages']
 
-#markdown: redcarpet
+markdown: kramdown
 #highlighter: pygments
+
+exclude: ['*.Rmd']
+encoding: utf-8 
