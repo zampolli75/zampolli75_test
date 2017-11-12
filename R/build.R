@@ -16,3 +16,6 @@ files = cbind(rmds, blogdown:::with_ext(rmds, '.md'))
 for (i in seq_len(nrow(files))) build_one(files[i, ])
 
 system2('jekyll', 'build')
+
+
+# servr::jekyll(command = '/.rvm/gems/ruby-2.3.3/bin/jekyll build')

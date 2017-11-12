@@ -10,4 +10,4 @@ markdown: kramdown
 #highlighter: pygments
 
 exclude: ['*.Rmd']
-encoding: utf-8 
+encoding: UTF-8
