@@ -16,9 +16,9 @@ html, body {
 }
 
 body {
-  color: #4a4a4a;
+  color: #000000;
   background-color: #fafbfc;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-weight: 400;
   font-size: 0.85em;
   overflow: hidden;
@@ -134,7 +134,7 @@ a:hover {
   margin-bottom: 2em;
   font-weight: 600;
   color: #787878;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
 }
 
 #cover-photo-container,
@@ -147,12 +147,13 @@ a:hover {
 }
 
 #title {
-  color: #4a4a4a;
+  color: #000000;
   margin-bottom: 0.35em;
   font-size: 3em;
   line-height: 40px;
-  text-transform: uppercase;
-  font-family: 'Playfair Display', Arial, sans-serif;
+  text-align: center;
+  /*text-transform: uppercase;*/
+  font-family: 'Fira Sans', sans-serif;
 }
 
 .post {
@@ -165,20 +166,20 @@ a:hover {
   margin-top: 1.25em;
   margin-left: -0.5em;
   margin-bottom: 1.25em;
-  font-family: 'Playfair Display', Arial, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
 }
 
 .post h2 {
   margin-top: 1.25em;
   margin-left: -0.5em;
   margin-bottom: 1.25em;
-  font-family: 'Playfair Display', Arial, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
 }
 
 .post a,
 #about a {
   border-bottom: 1px solid #8085C1;
-  font-family: 'Playfair Display', Arial, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
 }
 
 .post a:hover {
@@ -193,14 +194,14 @@ a:hover {
 }
 
 .post p {
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-size: 17px;
   margin-bottom: 1.45em;
   text-align: justify;
 }
 
 .post ul, .post ol {
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-size: 17px;
   margin-left: 2.35em;
   margin-bottom: 1.25em;
@@ -268,12 +269,12 @@ a:hover {
 .post-title {
   font-weight: 600;
   font-size: 1.25em;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .post-date {
   color: #8a8a8a;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: 'Fira Sans', sans-serif;
   font-weight: 600;
   font-size: 0.65em;
   display: block;

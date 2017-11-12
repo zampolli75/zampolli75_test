@@ -8,7 +8,8 @@ permalink: about
 ## <i class="fa fa-university" aria-hidden="true"></i> Education
 
 - **Louisiana State University (2016-present)**  
-Phd in Information Systems
+Phd in Information Systems  
+Research interests: Strategic information systems.
 
 - **University of Pavia (2012-2016)**  
 Master in International Business and Economics  
@@ -24,6 +25,8 @@ Majors: strategy, balance sheet analysis, accountancy.
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Publications
 
+- Piccoli, G. Rodriguez, J. Palese, B. and Bartosiak, M. (2017) The Dark Side of Digital Transformation: The case of Information Systems Education. In Proceeding of Thirty-Eight International Conference on Information Systems , Seul, South Korea. [pdf](https://dds.cct.lsu.edu/ddslab/pdf/piccolietal2017.pdf)
+
 - Ives, B., Palese, B., Rodriguez, J.A. (2016). Digital Data Streams for Customer Service Enhancement: Harnessing the Internet of Things. MISQ Executive, 15(4). [pdf](http://www.misqe.org/ojs2/execsummaries/MISQE_V15I4_Ivesetal_Web.pdf)  
 
 - Lynda M. Applegate, Gabriele Piccoli, Joaquin Rodriguez. (2016). CLHS: Scaling a New Venture. Innovation & Entrepreneurship Harvard Business Case. [link](https://hbr.org/product/clhs-scaling-a-new-venture/817053-PDF-ENG)
@@ -38,3 +41,7 @@ Majors: strategy, balance sheet analysis, accountancy.
 Junior Consultant  
 I have specialized in the automotive sector, that see Fiat Chrysler Automobiles (FCA) as the main client. I work closely with the client covering functional analyst, and release manager duties.  
 Tasks: development of BI dashboards (Qlikview) and web applications and the management of their entire lifecycle; gathering requirements; guaranteeing quality relases; managing the accountability and the planning of the project, dealing with incidents (bugs).  
+
+## <i class="fa fa-newspaper-o" aria-hidden="true"></i> Media Contributions
+
+- Article about "branded bots" in [The Advocate](http://www.theadvocate.com/baton_rouge/news/business/article_476b4ab8-b98e-11e7-8dd8-330072c0343e.html).
